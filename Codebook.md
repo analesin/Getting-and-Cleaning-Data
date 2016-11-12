@@ -5,6 +5,8 @@ output: html_document
 
 **# Description**
 
+(The file path needs to be change to run the code.)
+
   1) Download the given dataset
   2) read relevant train and test files
   3) merge them
